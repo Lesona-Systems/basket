@@ -1,0 +1,27 @@
+What do we want it to do?
+
+- When things are scanned, do we have it already or do we not?
+- if we don't, display a page where we can add information about the product
+- if we do, show total count of product prior to scan, plus +1 for current scan (autoaccept scan)
+- once scan accepted, clear window and start over with barcode scan cta
+
+DB fields
+Barcode number
+Brand
+Product
+Size/Weight
+Tags
+Current Count
+Desired Count
+Oldest
+Oldest Date
+Most Recent
+Most Recent Date
+
+
+Tags:
+
+Vegetables, Meat, Dairy, Grains
+Raw Ingredients, prepared food
+Canned, Fresh
+
